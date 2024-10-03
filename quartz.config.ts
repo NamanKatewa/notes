@@ -12,7 +12,7 @@ const config: QuartzConfig = {
       websiteId: "butcher",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "notesbynaman.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
