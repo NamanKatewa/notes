@@ -114,7 +114,7 @@
 
 **Hypertext Transfer Protocol**
 
-- Access data over WWW. It transfers the data in the form of plain text, audio, video.
+- Access data over WWW . It transfers the data in the form of plain text, audio, video.
 - Efficiency to use in a hypertext env, rapid jumps from one document to another
 
 ## SNMP
