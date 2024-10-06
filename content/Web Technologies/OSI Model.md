@@ -168,3 +168,46 @@ TCP & UDP (Refer [[TCP IP]])
 
 # Presentation Layer
 
+![[Presentation Layer.png]]
+- Concerned with syntax & semantics of the information exchanged b/w the two systems
+- Data translator for a network
+- Part of the OS, converts data from one format to another
+- Also knows as **Syntax Layer**
+
+**Function -**
+
+## Translation
+
+- Exchange info in form of character strings, number, etc.
+- Handles interoperability b/w different encoding methods
+- Converts the data from sender-dependent format into common format
+
+## Encryption
+
+- Maintain privacy
+- Converting info into another form & protecting it from unauthorized access
+
+## Compression
+
+- Reduces the no of bits i.e the size of the data to be transmitted.
+
+
+# Application Layer
+
+- Serves as a window for users & application processes to access network
+- Handles Network transparency, resource allocation, etc.
+- Provides network services to end users
+
+**Functions -**
+
+## FTAM (File transfer, access, & management)
+
+- Allows users to access files in a remote computer, and manage them
+
+## Mail services
+
+- Email forwarding & storage
+## Directory services
+
+- Distributed database sources
+- Global info about various objects
