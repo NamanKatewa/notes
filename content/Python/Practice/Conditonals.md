@@ -1,8 +1,8 @@
 
 # 1. Odd or Even
 
-Write a program that takes a number as input and checks if it is odd or even.
-Print "Even" if the number is even and "Odd" if it is odd.
+	Write a program that takes a number as input and checks if it is odd or even.
+	Print "Even" if the number is even and "Odd" if it is odd.
 
 ```python
 
@@ -20,12 +20,12 @@ else:
 
 # 2. Grade Classification
 
-Write a program that takes a student's score (0 -100) as input & prints the grade based on the following criteria
-A : 90 and above
-B : 80 to 89
-C : 70 to 79
-D : 60 to 69
-F : Below 60
+	Write a program that takes a student's score (0 -100) as input & prints the grade based on the following criteria
+	A : 90 and above
+	B : 80 to 89
+	C : 70 to 79
+	D : 60 to 69
+	F : Below 60
 
 ```python
 
@@ -60,10 +60,10 @@ else:
 
 # 3. Temperature Conversion
 
-Write a program that asks the user for a temperature in Celsius & converts it to Fahrenheit.
-Use the formula $F = (C * 9/5) + 32$.
-Print whether the temperature is "Hot", above 30°C
-or "Cold", 30°C or below, after the conversion.
+	Write a program that asks the user for a temperture in Celsius & converts it to Fahrenheit.
+	Use the formula $F = (C * 9/5) + 32$.
+	Print whether the temperature is "Hot", above 30°C
+	or "Cold", 30°C or below, after the conversion.
 
 ```python
 
@@ -86,11 +86,11 @@ else:
 
 # 4. Leap Year Checker
 
-Write a program that takes a year as an input & checks whether it is a leap year
-Conditions for a leap year:
-1. Divisible by 4
-2. Not divisible by 100, unless also divisible by 400
-Print "Leap" or "Not Leap"
+	Write a program that takes a year as an input & checks whether it is a leap year
+	Conditions for a leap year:
+	1. Divisible by 4
+	2. Not divisble by 100, unless also divisible by 400
+	Print "Leap" or "Not Leap"
 
 ```python
 
@@ -108,11 +108,11 @@ else:
 
 # 5. Basic Login
 
-Prompts the user for username & password. 
-username - admin
-password - password123
-if username & password correct, print "Access Granted"
-if incorrect print "Access Denied"
+	 Prompts the user for username & password. 
+	 username - admin
+	 password - password123
+	 if username & password correct, print "Access Granted"
+	 if incorrect print "Access Denied"
 
 ```python
 
@@ -137,7 +137,7 @@ else:
 
 # 6. Positive, Negative, Zero
 
-Takes a number as an input, & checks whether it is positive, negative or xero.
+	Takes a number as an input, & checks whether it is positive, negative or xero.
 
 ```python
 
@@ -160,11 +160,11 @@ else:
 
 # 7. Shopping Discount
 
-Write a program that takes the total amount spent by a customer & applies a discount based on following criteria : 
-No discount for below 100
-10% discount for 100 to 499
-20% discount for 500 & above
-Print the final amount after discount
+	Write a program that takes the total amount spent by a customer & applies a discount based on following criteria
+	No discount for below 100
+	10% discount for 100 to 499
+	20% discount for 500 & above
+	Print the final amount after discount
 
 ```python
 
