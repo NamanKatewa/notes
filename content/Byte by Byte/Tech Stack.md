@@ -1,5 +1,6 @@
-NextJS - Frontend
-Shadcn - for components
-lucide-react - for icons
-Flask - api
-PostgreSQL - database
+# NextJS - Frontend
+# Tailwind - Styling
+# Shadcn - Components
+# lucide-react - Icons
+# Python - Backend & API for ai stuff
+# PostgreSQL - Database
