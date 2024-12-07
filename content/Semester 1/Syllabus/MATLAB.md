@@ -4,24 +4,11 @@ Here’s a **checklist** for the whole syllabus :
 
 ### **UNIT 1: MATLAB Basics and Environment**
 
-#### **Overview of MATLAB**
-
-- [ ]  Understand the history of MATLAB and its evolution.
-- [ ]  Identify key features of MATLAB.
-- [ ]  Recognize applications of MATLAB in various fields (engineering, data analysis, etc.).
-
-#### **MATLAB Environment**
-
-- [ ]  Navigate the MATLAB interface:
-    - [ ]  Command Window.
-    - [ ]  Workspace.
-    - [ ]  Command History.
-
 #### **Basic Syntax**
 
-- [ ]  Declare and manipulate variables.
-- [ ]  Use MATLAB's data types effectively (numeric, char, logical, etc.).
-- [ ]  Perform operations with MATLAB operators (+, -, *, /, ^, etc.).
+- [x]  Declare and manipulate variables.
+- [x]  Use MATLAB's data types effectively (numeric, char, logical, etc.).
+- [x]  Perform operations with MATLAB operators (+, -, *, /, ^, etc.).
 
 #### **Scripts and Functions**
 
