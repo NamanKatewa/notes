@@ -12,13 +12,13 @@ Here’s a **checklist** for the whole syllabus :
 
 #### **Scripts and Functions**
 
-- [ ]  Create, save, and run MATLAB scripts.
-- [ ]  Understand the differences between scripts and functions.
+- [x]  Create, save, and run MATLAB scripts.
+- [x]  Understand the differences between scripts and functions.
 
 #### **Input and Output**
 
-- [ ]  Gather user input using `input()` function.
-- [ ]  Display results using `disp()` and `fprintf()`.
+- [x]  Gather user input using `input()` function.
+- [x]  Display results using `disp()` and `fprintf()`.
 
 ---
 
