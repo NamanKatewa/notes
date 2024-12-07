@@ -26,9 +26,9 @@ Here’s a **checklist** for the whole syllabus :
 
 #### **Control Statements**
 
-- [ ]  Implement conditional logic using:
-    - [ ]  `if` and `else` statements.
-    - [ ]  `switch` cases.
+- [x]  Implement conditional logic using:
+    - [x]  `if` and `else` statements.
+    - [x]  `switch` cases.
 
 #### **Loops**
 
