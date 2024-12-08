@@ -32,9 +32,9 @@ Here’s a **checklist** for the whole syllabus :
 
 #### **Loops**
 
-- [ ]  Use `for` loops for repetitive tasks.
-- [ ]  Use `while` loops for condition-based iterations.
-- [ ]  Write nested loops for complex scenarios.
+- [x]  Use `for` loops for repetitive tasks.
+- [x]  Use `while` loops for condition-based iterations.
+- [x]  Write nested loops for complex scenarios.
 
 #### **Vectors and Matrices**
 
