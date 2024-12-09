@@ -38,19 +38,19 @@ Here’s a **checklist** for the whole syllabus :
 
 #### **Vectors and Matrices**
 
-- [ ]  Create vectors and matrices.
-- [ ]  Index and slice vectors/matrices.
-- [ ]  Perform basic matrix manipulations (transpose, concatenation, etc.).
+- [x]  Create vectors and matrices.
+- [x]  Index and slice vectors/matrices.
+- [x]  Perform basic matrix manipulations (transpose, concatenation, etc.).
 
 #### **Built-in Functions**
 
-- [ ]  Use common mathematical functions (`sin()`, `cos()`, `log()`, etc.).
-- [ ]  Apply statistical functions (`mean()`, `std()`, etc.).
+- [x]  Use common mathematical functions (`sin()`, `cos()`, `log()`, etc.).
+- [x]  Apply statistical functions (`mean()`, `std()`, etc.).
 
 #### **User-Defined Functions**
 
-- [ ]  Write and save user-defined functions.
-- [ ]  Call functions with arguments and return values.
+- [x]  Write and save user-defined functions.
+- [x]  Call functions with arguments and return values.
 
 ---
 
