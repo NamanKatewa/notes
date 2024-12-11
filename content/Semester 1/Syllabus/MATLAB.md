@@ -67,16 +67,6 @@ Here’s a **checklist** for the whole syllabus :
 - [ ]  Generate logarithmic plots (`semilogx()`, `semilogy()`).
 - [ ]  Create bar and pie charts.
 
-#### **File I/O**
-
-- [ ]  Read data from text (`.txt`) files.
-- [ ]  Write data to files in different formats (`.txt`, `.csv`, `.xls`).
-
-#### **Data Import and Export**
-
-- [ ]  Import data from external sources using `importdata()` and other functions.
-- [ ]  Export results for external use (`xlswrite()`, etc.).
-
 ---
 
 ### **UNIT 4: Numerical Methods, Data Analysis, and Applications**
