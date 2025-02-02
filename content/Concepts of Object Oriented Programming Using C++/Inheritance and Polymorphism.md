@@ -1,13 +1,10 @@
-
-# **Inheritance and Polymorphism in C++**
-
-## **1. Inheritance in C++**
+## **Inheritance**
 
 Inheritance is a mechanism that allows one class (derived class) to acquire the properties and behavior of another class (base class). This promotes **code reusability** and **hierarchical classification** in object-oriented programming (OOP).
 
 ### **Types of Inheritance**
 
-#### **1. Single Inheritance**
+#### **Single Inheritance**
 
 A derived class inherits from a single base class.
 
@@ -32,7 +29,7 @@ int main() {
 }
 ```
 
-#### **2. Multiple Inheritance**
+#### **Multiple Inheritance**
 
 A derived class inherits from more than one base class.
 
@@ -61,7 +58,7 @@ int main() {
 }
 ```
 
-#### **3. Hierarchical Inheritance**
+#### **Hierarchical Inheritance**
 
 Multiple derived classes inherit from a single base class.
 
@@ -86,7 +83,7 @@ int main() {
 }
 ```
 
-#### **4. Multilevel Inheritance**
+#### **Multilevel Inheritance**
 
 A derived class inherits from another derived class.
 
@@ -109,7 +106,7 @@ int main() {
 }
 ```
 
-#### **5. Hybrid Inheritance (Virtual Inheritance)**
+#### **Hybrid Inheritance (Virtual Inheritance)**
 
 A combination of different inheritance types, often requiring **virtual inheritance** to prevent ambiguity.
 
@@ -164,7 +161,7 @@ int main() {
 
 ---
 
-## **2. Advanced Inheritance Concepts**
+## **Advanced Inheritance Concepts**
 
 ### **Aggregation vs. Composition**
 
@@ -214,7 +211,7 @@ int main() {
 
 ---
 
-## **3. Polymorphism in C++**
+## **Polymorphism in C++**
 
 Polymorphism allows the same function or operator to behave differently depending on the context.
 
@@ -296,7 +293,7 @@ int main() {
 
 ---
 
-## **4. Pointers and Virtual Functions**
+## **Pointers and Virtual Functions**
 
 ### **Pointer to Objects**
 
@@ -332,15 +329,3 @@ int main() {
 ```
 
 ---
-
-# **Summary**
-
-✅ **Inheritance** enables class relationships for **code reuse**.  
-✅ **Polymorphism** allows flexibility in function behavior.  
-✅ **Virtual Functions** enable **dynamic binding** for overriding methods.  
-✅ **Operator and Function Overloading** support compile-time polymorphism.  
-✅ **Aggregation vs. Composition** determines object ownership.
-
----
-
-These notes cover all important **Inheritance and Polymorphism** concepts in C++. Let me know if you need further explanations! 🚀
