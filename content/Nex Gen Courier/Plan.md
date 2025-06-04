@@ -7,12 +7,12 @@ Requirements Finalization & Planning
 - Finalize functional & non-functional requirements
 
 ## Tasks
-- [ ] Review and Confirm Admin + Client Panel feature lists
-- [ ] Finalize functional requirements matrix
-- [ ] Defined MVP features to build first
-- [ ] Finalize non-functional goals
-- [ ] Define initial KYC process
-- [ ] Choose hosting
+- [x] Review and Confirm Admin + Client Panel feature lists
+- [x] Finalize functional requirements matrix
+- [x] Defined MVP features to build first
+- [x] Finalize non-functional goals
+- [x] Define initial KYC process
+- [x] Choose hosting
 
 # Phase 2
 Architecture, Design & Dev Setup
