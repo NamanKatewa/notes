@@ -22,7 +22,7 @@ Architecture, Design & Dev Setup
 - Setup backend/ frontend monorepo
 
 ## Tasks
-- [ ] Design full ERD
+- [x] Design full ERD
 - [ ] Initialize Next.js App Router
 - [ ] Setup tailwindCSS, shadcn/ui and Layout
 - [ ] Setup @trpc/server + @trpc/react + next-auth
