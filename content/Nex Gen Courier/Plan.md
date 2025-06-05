@@ -23,12 +23,12 @@ Architecture, Design & Dev Setup
 
 ## Tasks
 - [x] Design full ERD
-- [ ] Initialize Next.js App Router
-- [ ] Setup tailwindCSS, shadcn/ui and Layout
-- [ ] Setup @trpc/server + @trpc/react + next-auth
-- [ ] Setup Prisma with PostgreSQL and generate base models
-- [ ] Plan modular folder structure
-- [ ] Define base Zod schemas for input validation
+- [x] Initialize Next.js App Router
+- [x] Setup tailwindCSS, shadcn/ui and Layout
+- [x] Setup @trpc/server + @trpc/react + next-auth
+- [x] Setup Prisma with PostgreSQL and generate base models
+- [x] Plan modular folder structure
+- [x] Define base Zod schemas for input validation
 
 # Phase 3
 UI / UX Wireframes & Components
