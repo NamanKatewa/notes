@@ -37,11 +37,11 @@ UI / UX Wireframes & Components
 - Lay UI groundwork using reusable components
 
 ## Tasks
-- [ ] Create wireframes for Admin & Client Panels
-- [ ] Build reusable layout components
-- [ ] Build auth screens
-- [ ] Create Quick Actions Section
-- [ ] Design Dashboard pages
+- [x] Create wireframes for Admin & Client Panels
+- [x] Build reusable layout components
+- [x] Build auth screens
+- [x] Create Quick Actions Section
+- [x] Design Dashboard pages
 
 # Phase 4
 Authentication & User Management
@@ -50,9 +50,9 @@ Authentication & User Management
 - Secure user auth, basic client registration
 
 ## Tasks
-- [ ] Setup next-auth with credentials provider
-- [ ] JWT + cookie based sessions
-- [ ] Add RBAC logic with middleware
+- [x] Setup next-auth with credentials provider
+- [x] JWT + cookie based sessions
+- [x] Add RBAC logic with middleware
 - [ ] Implement Signup API with KYC file upload
 - [ ] Implement Login + Forgot Password via email
 - [ ] Create Admin screen to verify/reject KYC
