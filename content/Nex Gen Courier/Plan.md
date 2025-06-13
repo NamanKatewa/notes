@@ -53,8 +53,10 @@ Authentication & User Management
 - [x] Setup next-auth with credentials provider
 - [x] JWT + cookie based sessions
 - [x] Add RBAC logic with middleware
-- [ ] Implement Signup API with KYC file upload
-- [ ] Implement Login + Forgot Password via email
+- [x] Implement Login
+- [x] Implement Signup API 
+- [ ] Implement KYC
+- [ ] Implement Forgot Password
 - [ ] Create Admin screen to verify/reject KYC
 
 # Phase 5
