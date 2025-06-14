@@ -55,7 +55,7 @@ Authentication & User Management
 - [x] Add RBAC logic with middleware
 - [x] Implement Login
 - [x] Implement Signup API 
-- [ ] Implement KYC
+- [x] Implement KYC
 - [ ] Implement Forgot Password
 - [ ] Create Admin screen to verify/reject KYC
 
@@ -125,7 +125,7 @@ Support & Misc features
 ## Tasks
 - [ ] Create supportTicket + supportConversation model
 - [ ] Allow clients to raise new tickets
-- [ ] Admin can respond, close/reopne tickets
+- [ ] Admin can respond, close/reopen tickets
 - [ ] Notification system ( toasts + optional email later)
 - [ ] Employee management screen ( roles + permissions )
 - [ ] Basic Notification bell + settings ( optional )
