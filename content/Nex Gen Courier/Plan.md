@@ -56,7 +56,7 @@ Authentication & User Management
 - [x] Implement Login
 - [x] Implement Signup API 
 - [x] Implement KYC
-- [ ] Implement Forgot Password
+- [x] Implement Forgot Password
 - [ ] Create Admin screen to verify/reject KYC
 
 # Phase 5
