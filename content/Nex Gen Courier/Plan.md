@@ -66,12 +66,12 @@ Wallet System & Payments
 - Build secure wallet + Razorpay recharge flow
 
 ## Tasks
-- Create wallet, walletTransaction, paymentTransaction models
-- Integrate Payment Processor
-- Handle webhook for payment verification
-- Update wallet balance on successful recharge i.e. manually by admin, separate page on admin dashboard
-- Add passbook view ( client ) and admin view ( all users )
-- Implement wallet adjustment flows
+- [ ] Create wallet, walletTransaction, paymentTransaction models
+- [ ] Integrate Payment Processor
+- [ ] Handle webhook for payment verification
+- [ ] Update wallet balance on successful recharge i.e. manually by admin, separate page on admin dashboard
+- [ ] Add passbook view ( client ) and admin view ( all users )
+- [ ] Implement wallet adjustment flows
 
 # Phase 6
 Order Booking & Labeling System
