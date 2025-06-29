@@ -70,8 +70,8 @@ Wallet System & Payments
 - [x] Integrate Payment Processor
 - [x] Handle webhook for payment verification
 - [x] Update wallet balance on successful recharge i.e. manually by admin, separate page on admin dashboard
-- [ ] Add passbook view ( client ) and admin view ( all users )
-- [ ] Implement wallet adjustment flows
+- [x] Add passbook view ( client ) and admin view ( all users )
+- [x] Implement wallet adjustment flows
 
 # Phase 6
 Order Booking & Labeling System
